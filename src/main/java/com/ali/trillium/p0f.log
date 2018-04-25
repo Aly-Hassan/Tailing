@@ -1,5 +1,9 @@
+--- p0f 2.0.8 resuming operations at <Mon Apr  9 11:48:54 2018> ---
 <Mon Apr  9 11:50:03 2018> 172.20.16.36:21751 - UNKNOWN [65535:232:0:40:.:.:?:?] -> 172.20.16.30:8080 (link: unspecified)
-<Mon Apr  9 11:50:03 2018> 172.20.16.36:21751 - UNKNOWN [65535:232:0:40:.:.:?:?] -> 172.20.16.30:8080 (link: unspecified)
-<Mon Apr  9 11:50:03 2018> 172.20.16.36:21751 - UNKNOWN [65535:232:0:40:.:.:?:?] -> 172.20.16.30:8080 (link: unspecified)
-<Mon Apr  9 11:50:03 2018> 172.20.16.36:21751 - UNKNOWN [65535:232:0:40:.:.:?:?] -> 172.20.16.30:8080 (link: unspecified)
-<Mon Apr  9 11:50:03 2018> 172.20.16.36:21751 - UNKNOWN [65535:232:0:40:.:.:?:?] -> 172.20.16.30:8080 (link: unspecified)
+<Mon Apr  9 11:50:29 2018> 125.166.231.77:55825 - Windows XP/2000 (RFC1323+, w+, tstamp-) [GENERIC] Signature: [63443:109:1:52:M1440,N,W6,N,N,S:.:Windows:?] -> 111.68.99.39:445 (distance 19, link: IPv6/IPIP)
+<Mon Apr  9 11:51:41 2018> 61.176.193.32:2093 - Windows 2000 SP4, XP SP1+ -> 111.68.99.39:3306 (distance 20, link: ethernet/modem)
+<Mon Apr  9 11:51:47 2018> 61.176.193.32:1416 - Windows 2000 SP4, XP SP1+ -> 111.68.99.39:3306 (distance 20, link: ethernet/modem)
+<Mon Apr  9 11:51:48 2018> 61.176.193.32:2639 - Windows 2000 SP4, XP SP1+ -> 111.68.99.39:3306 (distance 20, link: ethernet/modem)
+<Mon Apr  9 11:51:59 2018> 111.68.99.39:44571 - UNKNOWN [S20:64:1:60:M1460,S,T,N,W7:.:?:?] (up: 11 hrs) -> 81.166.122.240:10000 (link: ethernet/modem)
+<Mon Apr  9 11:57:34 2018> 117.40.173.180:44267 - Windows XP/2000 (RFC1323+, w+, tstamp-) [GENERIC] Signature: [8192:111:1:52:M1380,N,W8,N,N,S:.:Windows:?] -> 111.68.99.39:445 (distance 17, link: GPRS, T1, FreeS/WAN)
+<Mon Apr  9 11:58:01 2018> 41.41.108.229:58240 - Windows XP/2000 (RFC1323+, w+, tstamp-) [GENERIC] Signature: [8192:107:1:52:M1452,N,W2,N,N,S:.:Windows:?] -> 111.68.99.39:445 (distance 21, link: pppoe (DSL))
